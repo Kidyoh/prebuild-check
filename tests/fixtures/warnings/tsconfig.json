@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "target": "ES2018",
+    "module": "CommonJS",
+    "strict": false,
+    "noImplicitAny": true,
+    "noImplicitReturns": true,
+    "noUnusedLocals": true,
+    "allowUnreachableCode": false,
+    "outDir": "./dist",
+    "esModuleInterop": true
+  },
+  "include": ["*.ts"]
+}
